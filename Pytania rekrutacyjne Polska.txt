@@ -1,0 +1,31 @@
+roznica interfejs klasa abstrakcyjna
+internal metoda dostepu
+metoda abstrakcyjna interfejs
+static slowo this czy mozna uzyc
+procedura a funkcja w sql roznica
+Having w sql
+delete vs truncate
+transient/scoped/singleton
+(int) vs as int
+override vs new
+kursor w bazie danych
+indexy w bazie
+czy jak sie wykonuje transkacja to inny watek moze to widziec w bazie mimo ze transakcja sie nie zakonczyla
+jak sobie poradzic z racing condition na kolejce np. rabbitmq pomiedzy mikroserwisami
+kolejki awsowe
+konwersja vs castowanie
+REFERENCJA na strukturze i na klasie
+roznice klasa a struktura
+czy mozna dziedziczyc po strukturze.
+delegaty
+is and as
+metoda iwrtualna
+iaas terraform
+xunit/nunit
+jak zwolnic pamiec nie uzywajac usinga
+bounded context
+subdomain
+clean arch/ onion architecture / ddd
+wady mikroserwisow
+idisposable using
+zasady solida (srp, liskov, open-encl, interfejs abstraction)
