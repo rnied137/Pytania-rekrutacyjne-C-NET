@@ -89,3 +89,32 @@ Podgląd
 Czym jest tracking?
 
 Jakie wyróżniamy stany encji?
+
+
+
+Podgląd
+
+Czym jest SOLID?
+
+Czym jest memory leak?
+
+Czym jest reguła DRY?
+
+Czym jest reguła KISS?
+
+Podgląd
+
+Czym jest klasa a czym obiekt?
+
+Czym różni się JSON od XML?
+
+Czym jest serializacja?
+
+Czym są wzorce projektowe?
+
+Jak działa wzorzec singleton?
+
+Jak działa wzorzec fabryka?
+
+Jaki jest cel wzorca strategia?
+
