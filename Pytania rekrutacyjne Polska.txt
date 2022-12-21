@@ -29,3 +29,63 @@ clean arch/ onion architecture / ddd
 wady mikroserwisow
 idisposable using
 zasady solida (srp, liskov, open-encl, interfejs abstraction)
+
+Jakie modyfikatory dostępu istnieją w C#?
+
+Jakie metody posiada każdy obiekt?
+
+Po czym mozna dziedziczyć w C#?
+
+Czym jest sterta i stos?
+
+Podgląd
+
+Czym są słowa kluczowe ref i out?
+
+Czym jest refleksja?
+
+Czym są typy generyczne?
+
+Czym są generyczne ograniczenia?
+
+Czym są generyczne delegaty?
+
+Jak działa wyrażenie using?
+
+Jak działa async / await?
+
+Jak wykonać akcję równolegle?
+
+Czy z metody asynchronicznej można złapać wyjątek?
+
+Czym są atrybuty?
+
+Czym jest (un)boxing?
+
+Czym są słowa kluczowe const i readonly?
+
+Jak działa słowo kluczowe yield?
+
+Jaka jest różnica miedzy metodą First a Single? (LINQ)
+
+Czym różni się metoda First od FirstOrDefault? (LINQ)
+
+Jaka jest różnica pomiędzy interfejsem a klasą abstrakcyjną?
+
+Czym jest metoda rozszerzająca?
+
+Czym różni się operator is od as?
+
+Jakie są nowości w C#?
+
+Co robi metoda Include?
+
+Jaka jest różnica pomiędzy IEnumerable a IQueryable?
+
+Czym jest lazy loading?
+
+Podgląd
+
+Czym jest tracking?
+
+Jakie wyróżniamy stany encji?
