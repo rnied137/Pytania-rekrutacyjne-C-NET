@@ -1,4 +1,5 @@
 roznica interfejs klasa abstrakcyjna
+tematy vs kolejki
 internal metoda dostepu
 metoda abstrakcyjna interfejs
 static slowo this czy mozna uzyc
