@@ -119,3 +119,8 @@ Jak działa wzorzec fabryka?
 
 Jaki jest cel wzorca strategia?
 
+Rodzaje indeksow (klastrowe i nieklastrowe) opisac kilka
+
+Having vs WHERE
+dzialanie DOM (doc obj model)
+
